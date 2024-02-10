@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on : [KRTP Project](https://github.com/KRTNP/KRTNP)
 
-- 🌱 I’m currently learning : **Cybersecurity,**
-
-- 📫 How to reach me : **nattaphon.honghin@gmail.com**
+- 🌱 I’m currently learning : **Cybersecurity**
 
 <br>
 <hr>
