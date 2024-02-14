@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on : [KRTP Project](https://github.com/KRTNP/KRTNP)
 
-- 🌱 I’m currently learning : **Cybersecurity**
+- 🌱 I’m currently learning : **Cybersecurity, AI, Data Analyst, Reskill**
 
 <br>
 <hr>
