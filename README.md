@@ -12,6 +12,7 @@
 
 - 🍵 I work on many projects, but maybe not all of them are uploaded to GitHub. But if you want to talk or ask about anything You can join in and talk.
 
+- 📚 These languages and tools What I've listed on my GitHub is what I've actually learned and used in my work and projects based on my experience. But about expertise, let's be honest. In some matters, I may not have much expertise. Due to some things I only used it a few times. But I have used it and studied it in depth. There may be some need to refresh some knowledge.
 <br>
 <hr>
 
