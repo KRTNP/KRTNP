@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning : **DevOps, Cybersecurity, Data Analytics, AI**
 
+- 🍵 I work on many projects, but maybe not all of them are uploaded to GitHub. But if you want to talk or ask about anything You can join in and talk.
+
 <br>
 <hr>
 
