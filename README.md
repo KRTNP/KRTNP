@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on : [KRTP Project](https://github.com/KRTNP/KRTNP)
 
-- 🌱 I’m currently learning : **Cybersecurity, AI, Data Analyst, Reskill**
+- 🌱 I’m currently learning : **DevOps, Cybersecurity, Data Analytics, AI**
 
 <br>
 <hr>
