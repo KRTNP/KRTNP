@@ -33,7 +33,7 @@
 <h3 align="left">Languages Framework and Tools:</h3>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/KRTNP">
      <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,lua,flutter,html,css,php,react,vue,tailwind,svelte,bootstrap,nodejs,nuxtjs,nestjs,nextjs,express,firebase,mysql,mongodb,nginx,vscode,matlab,github,git,figma,arduino,raspberrypi"/>
   </a>
 </p>
