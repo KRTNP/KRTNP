@@ -2,8 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krtnp&label=Profile%20views&color=000000&style=flat" alt="krtnp" /> </p>
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krtnp" alt="krtnp" /></a> </p>
-<hr>
 <br>
 
 - 🔭 I’m currently working on : [KRTP Project](https://github.com/KRTNP/KRTNP)
@@ -34,14 +32,8 @@
 <br>
 <p align="center">
   <a href="https://github.com/KRTNP">
-     <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,lua,flutter,html,css,php,react,vue,tailwind,svelte,bootstrap,nodejs,nuxtjs,nestjs,nextjs,express,bun,firebase,mysql,mongodb,nginx,vscode,matlab,github,git,figma,arduino,raspberrypi"/>
+     <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,lua,html,css,php,react,vue,tailwind,svelte,bootstrap,nodejs,nuxtjs,nestjs,nextjs,express,bun,firebase,mysql,mongodb,nginx,vscode,matlab,github,git,figma,arduino,raspberrypi"/>
   </a>
 </p>
-<br>
-<hr>
-<h3 align="center">📌 KRTNP's Stats 💻</h3>
-<br>
-<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=krtnp&show_icons=true&theme=highcontrast&locale=en" alt="krtnp" /></a>
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtnp&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="krtnp" /></a>
 <br>
 <hr>
