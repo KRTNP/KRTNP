@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on : [KRTP Project](https://github.com/KRTNP/KRTNP)
 
-- 🌱 I’m currently learning : **DevOps, Cybersecurity, Data Analytics, AI**
+- 🌱 I’m currently learning : **DevOps, Cybersecurity**
 
 - 🍵 I work on many projects, but maybe not all of them are uploaded to GitHub. But if you want to talk or ask about anything You can join in and talk.
 
