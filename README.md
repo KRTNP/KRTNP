@@ -32,7 +32,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/KRTNP">
-     <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,php,lua,react,vue,nodejs,nuxtjs,nextjs,firebase,docker,cloudflare,aws,gcp,nginx,vscode,matlab,github,git,figma,arduino,raspberrypi"/>
+     <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,php,lua,react,vue,nodejs,nuxtjs,nextjs,firebase,docker,cloudflare,aws,gcp,git,jenkins,nginx,vscode,matlab,github,figma,arduino,raspberrypi"/>
   </a>
 </p>
 <br>
