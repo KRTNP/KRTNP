@@ -8,9 +8,14 @@
 
 - 🌱 I’m currently learning : **DevSecOps, Cybersecurity, LLM & Machine Leaning**
 
-- 🍵 I work on many projects, but maybe not all of them are uploaded to GitHub. But if you want to talk or ask about anything You can join in and talk.
+- 🍵 While not all of my work is publicly available on GitHub, this profile showcases select projects from my development journey. I welcome discussions and inquiries about any aspect of my work – feel free to reach out for meaningful technical conversations or potential collaborations.
 
-- 📚 These languages and tools What I've listed on my GitHub is what I've actually learned and used in my work and projects based on my experience. But about expertise, let's be honest. In some matters, I may not have much expertise. Due to some things I only used it a few times. But I have used it and studied it in depth. There may be some need to refresh some knowledge.
+- 📚 The languages and tools listed here reflect my hands-on experience from both professional work and personal projects. I believe in maintaining transparency about my expertise levels:
+  - Each technology represents practical experience and in-depth study
+  - While some tools may have been used in specific project contexts
+  - I maintain a commitment to continuous learning and knowledge refresh when needed
+
+  Feel free to connect for discussions about any of these technologies!
 <br>
 <hr>
 
