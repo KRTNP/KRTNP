@@ -4,7 +4,7 @@
 <hr>
 <br>
 
-- 🔭 I’m currently working on : [KRTP Project](https://github.com/KRTNP/KRTNP)
+- 🔭 I’m currently working on : [KRTNP Project](https://github.com/KRTNP/KRTNP)
 
 - 🌱 I’m currently learning : **DevSecOps, Cybersecurity, LLM & Machine Leaning**
 
