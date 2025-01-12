@@ -36,11 +36,13 @@ Feel free to connect for discussions about any of these technologies!
 <p align="left">
   <!-- Programming Languages -->
   <strong>Programming Languages:</strong><br/>
+  <br/>
   <img align="center" src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp" alt="Python, Java, JavaScript, TypeScript, C, C++"/>
   <br/><br/>
 
   <!-- Frontend & Backend Development -->
   <strong>Frontend & Backend Development:</strong><br/>
+  <br/>
   <img align="center" src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,nodejs,nestjs" alt="React.js, Next.js, Svelte.js, TailwindCSS, Bootstrap, Node.js, NestJS"/>
   <br/>
   <img align="center" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB"/>
@@ -48,6 +50,7 @@ Feel free to connect for discussions about any of these technologies!
 
   <!-- DevOps & Tools -->
   <strong>DevOps & Tools:</strong><br/>
+  <br/>
   <img align="center" src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins" alt="AWS, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins"/>
   <br/>
   <img align="center" src="https://skillicons.dev/icons?i=git,firebase,prometheus,grafana,cloudflare,linux" alt="Git, Firebase, Prometheus, Grafana, Cloudflare, Linux"/>
