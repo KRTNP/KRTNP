@@ -32,18 +32,19 @@ While not all of my work is public, this profile includes selected projects and 
 
 <p align="center">
   <a href="https://github.com/KRTNP" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" style="width: auto; height: 22px;" />
   </a>
   <a href="https://www.linkedin.com/in/nattaphon-honghin-272407289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" style="width: auto; height: 22px;" />
   </a>
   <a href="https://leetcode.com/Nattaphon_Honghin/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F7B801?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=%23d16c06" alt="LeetCode" style="width: auto; height: 22px;" />
   </a>
-  <a href="#" onclick="location.href='mailto:'+['nattaphon','.honghin','@gmail','.com'].join('');" target="_blank">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nattaphon.honghin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" style="width: auto; height: 22px;" />
   </a>
 </p>
+
 
 ---
 
