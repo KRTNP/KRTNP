@@ -74,3 +74,5 @@ While not all of my work is public, this profile includes selected projects and 
 
 ---
 
+[![KRTNP's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krtnp)](https://github.com/anuraghazra/github-readme-stats)
+
