@@ -1,76 +1,50 @@
-<h2 align="center">My Development Environment</h2>
+# Nattaphon Honghin
 
-<p align="center">A focused space highlighting my experience, learning, and projects in software engineering.</p>
+**Software Engineer | Platform Services & Security Interest**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krtnp&label=Profile%20views&color=grey&style=flat" alt="Profile views for KRTNP" />
-</p>
+I focus on developing software and platforms on Linux with an emphasis on **production readiness**, **reliability**, and **security-by-default**.
 
----
-
-### About Me
-
-I am currently engaged in developing the [KRTNP Project](https://github.com/KRTNP/KRTNP), with ongoing exploration in the areas of:
-
-- DevSecOps and cloud-native security
-- Cybersecurity principles and best practices
-- Large Language Models (LLMs) and applied machine learning
-
-While not all of my work is public, this profile includes selected projects and tools that reflect my technical growth. I value clarity, purpose-driven development, and continuous learning.
+My background includes system-level debugging (crash triage, core dumps), root cause analysis, and implementing standard DevOps practices like Docker and CI/CD. I prioritize creating reproducible environments and maintaining clear documentation for every system I build.
 
 ---
 
-### Technical Focus
+### Selected Projects
 
-- End-to-end software development with practical application of design and architecture  
-- Hands-on experience across multiple stacks and deployment environments  
-- Emphasis on reliable, scalable, and maintainable systems  
+#### [Linux Observability Toolkit](https://github.com/krtnp/linux-observability-toolkit)
+**Operability & Incident Response Tool**
+* **Objective:** Designed to facilitate Root Cause Analysis (RCA) by automating data collection during incidents (service status, resource snapshots, log collection).
+* **Key Features:** Config-driven architecture for reusability. Includes runbooks for deployment/rollback and security hardening checklists (non-root runtime, resource limits).
+* **Tech:** Python, Bash, Systemd, Journald.
 
----
+#### [Crash Triage Lab](https://github.com/krtnp/crash-triage-lab)
+**System Debugging & Analysis Environment**
+* **Objective:** A reproducible lab environment for practicing crash analysis—from symptom identification to root cause verification.
+* **Key Features:** Covers various crash scenarios (memory corruption, race conditions) with a focus on defensive programming. Includes triage checklists for isolation, reproduction, and fix verification.
+* **Tech:** C, GDB (breakpoints, backtrace, core dump), Linux toolchain.
 
-### Contact & Profiles
-
-<p align="center">
-  <a href="https://github.com/KRTNP" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" style="width: auto; height: 22px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/nattaphon-honghin-272407289/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" style="width: auto; height: 22px;" />
-  </a>
-  <a href="https://leetcode.com/Nattaphon_Honghin/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=%23d16c06" alt="LeetCode" style="width: auto; height: 22px;" />
-  </a>
-  <a href="mailto:nattaphon.honghin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" style="width: auto; height: 22px;" />
-  </a>
-</p>
-
+#### [PHTS - Public Health Talent System](https://github.com/krtnp/phts-project)
+**Enterprise Web Application Architecture**
+* **Objective:** Developed a production-ready REST API service with a focus on maintainability and security.
+* **Key Features:** Implemented robust request validation, structured error handling, and centralized logging. Designed complex Authorization flows (RBAC) and integrated CI pipelines for automated linting and testing.
+* **Tech:** TypeScript, Next.js, Express, MySQL, Docker, CI/CD.
 
 ---
 
-### Tools and Technologies
+### Technical Skills
 
-#### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp" alt="Languages: Python, Java, JavaScript, TypeScript, C, C++" />
-</p>
+**Programming & Backend**
+* **Languages:** C (Memory model basics), Python, JavaScript/TypeScript, SQL, Bash.
+* **Web Engineering:** REST API design, Input validation, Error handling, Authentication/Authorization (RBAC).
 
-#### Frontend and Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,nodejs,nestjs" alt="Frontend & Backend: React, Next.js, Svelte, Tailwind, Bootstrap, Node.js, NestJS" />
-</p>
+**System & Infrastructure**
+* **Linux:** Process/Memory fundamentals, Production troubleshooting (Logs/Metrics/Core dumps).
+* **DevOps:** Docker (Containerization), Git, CI/CD Workflows (GitHub Actions).
 
-#### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases: MySQL, PostgreSQL, MongoDB" />
-</p>
-
-#### DevOps and Cloud Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins" alt="Cloud and DevOps: AWS, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,firebase,prometheus,grafana,cloudflare,linux" alt="Tools: Git, Firebase, Prometheus, Grafana, Cloudflare, Linux" />
-</p>
+**Debugging & Security**
+* **Analysis:** GDB (Breakpoints, Backtrace), Binary analysis tools (strings, objdump), Static/Dynamic analysis basics.
+* **Security:** Defensive coding awareness (ASLR/NX/Canary concepts), Least Privilege principles, Hardening baselines.
 
 ---
 
+### Connect
+[GitHub](https://github.com/KRTNP) • [LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/) • [nattaphon.honghin@gmail.com](mailto:nattaphon.honghin@gmail.com)
