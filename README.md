@@ -4,7 +4,7 @@
 
 I focus on developing software and platforms on Linux with an emphasis on **production readiness**, **reliability**, and **security-by-default**.
 
-My background includes system-level debugging (crash triage, core dumps), root cause analysis, and implementing standard DevOps practices like Docker and CI/CD. I prioritize creating reproducible environments and maintaining clear documentation for every system I build.
+My background includes system-level debugging (crash triage, core dumps), root cause analysis, and implementing standard DevOps practices like Docker and CI/CD. I prioritize creating reproducible environments for every system I build.
 
 ---
 
