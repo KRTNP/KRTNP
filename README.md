@@ -22,7 +22,7 @@ My background includes system-level debugging (crash triage, core dumps), root c
 * **Key Features:** Covers various crash scenarios (memory corruption, race conditions) with a focus on defensive programming. Includes triage checklists for isolation, reproduction, and fix verification.
 * **Tech:** C, GDB (breakpoints, backtrace, core dump), Linux toolchain.
 
-#### [PHTS - Public Health Talent System](https://github.com/PHTS-Public-Health-Talent-System/PHTS-Public-Health-Talent-System)
+#### [PHTS - Public Health Talent System](https://github.com/KRTNP/PHTS-Public-Health-Talent-System)
 **Enterprise Web Application Architecture**
 * **Objective:** Developed a production-ready REST API service with a focus on maintainability and security.
 * **Key Features:** Implemented robust request validation, structured error handling, and centralized logging. Designed complex Authorization flows (RBAC) and integrated CI pipelines for automated linting and testing.
