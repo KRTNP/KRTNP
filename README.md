@@ -1,45 +1,51 @@
 # Nattaphon Honghin
 
-Security Operations Center (SOC) Analyst and Digital Forensics and Incident Response (DFIR) specialist with a foundation in software engineering and Linux system internals. Active Capture The Flag (CTF) competitor focusing on threat detection, vulnerability analysis, and defensive engineering.
+Security Engineer working across endpoint security, threat detection, incident response, system analysis, and security automation.
 
----
+I work mainly with Linux and Windows environments, investigating endpoint, network, and system activity to understand suspicious behavior and improve detection and response.
 
-### Technical Focus & Competencies
+My background is in software engineering and Linux system internals, with a strong interest in DFIR, malware analysis, detection engineering, and low-level system analysis.
 
-*   **Security Operations & DFIR:** Threat detection, log analysis, incident response triage, and malware analysis.
-    *   **Tools:** CrowdStrike Falcon, SentinelOne, Sangfor Endpoint Secure & Cyber Command, Elastic Stack (ELK), Wireshark, Volatility, Ghidra, x64dbg.
-*   **System Internals & Analysis:** Linux process and memory monitoring, GDB debugging, core dump analysis, and binary analysis.
-    *   **Tools:** GDB, strace, lsof, auditd, objdump, strings, Sysinternals.
-*   **Software Engineering:** Platform development, secure API design, containerization, and automation.
-    *   **Tools:** Git, GitHub Actions, Docker, Linux Toolchain (gcc, make).
-*   **Languages:** C, Python, JavaScript/TypeScript, Bash, SQL.
+### Stack
 
----
+**Operating Systems**
+Kali Linux, Ubuntu, Debian, Rocky Linux, CentOS, Windows 10/11, Windows Server
 
-### Featured Projects
+**Endpoint & Security Platforms**
+CrowdStrike Falcon, SentinelOne, Sangfor Endpoint Secure, Sangfor Cyber Command, Microsoft Defender, Elastic Stack, FortiGate, Palo Alto Networks
 
-#### [Linux Observability Toolkit](https://github.com/krtnp/linux-observability-toolkit)
-Automated incident response data collection tool for Linux environments.
-*   Automates collection of volatile data, service statuses, system logs, and resource snapshots during incidents.
-*   Implements non-root runtime constraints and resource limits for secure execution.
-*   **Tech Stack:** Python, Bash, Systemd, Journald.
+**SIEM, Logging & Monitoring**
+Elastic Security, Elasticsearch, Kibana, Logstash, Sysmon, Windows Event Logs, journald, auditd, rsyslog
 
-#### [Crash Triage Lab](https://github.com/krtnp/crash-triage-lab)
-Reproducible lab environment for low-level system debugging and vulnerability isolation.
-*   Simulates memory corruption, race conditions, and software crashes to practice root cause analysis.
-*   Utilizes debugging tools to analyze core dumps and verify defensive coding patches.
-*   **Tech Stack:** C, GDB, Linux toolchain.
+**Network Analysis**
+Wireshark, tcpdump, tshark, Nmap, netcat, ss, netstat, dig, nslookup, traceroute, curl, OpenSSL
 
-#### [PHTS - Public Health Talent System](https://github.com/KRTNP/PHTS-Public-Health-Talent-System)
-Enterprise healthcare workflow platform built with a focus on security and maintainability.
-*   Implemented role-based access control (RBAC), strict input validation, and centralized auditable logging.
-*   Designed automated CI/CD pipelines for static analysis and security linting.
-*   **Tech Stack:** TypeScript, Next.js, Express, MySQL, Docker, GitHub Actions.
+**DFIR & Incident Response**
+Volatility, Autopsy, Sleuth Kit, Sysinternals Suite, Process Explorer, Process Monitor, Autoruns, TCPView, strings, file, binwalk, YARA
 
----
+**Malware & Binary Analysis**
+Ghidra, x64dbg, GDB, objdump, readelf, ltrace, strace, PEStudio, Detect It Easy, FLOSS
 
-### Contact & Links
+**Web & Security Testing**
+Burp Suite, OWASP ZAP, Nmap, Nikto, sqlmap, gobuster, ffuf, dirsearch
 
-*   **GitHub:** [github.com/KRTNP](https://github.com/KRTNP)
-*   **LinkedIn:** [linkedin.com/in/nattaphon-honghin-272407289](https://www.linkedin.com/in/nattaphon-honghin-272407289/)
-*   **Email:** nattaphon.honghin@gmail.com
+**Linux & System Analysis**
+ps, top, htop, lsof, systemctl, journalctl, dmesg, procfs, auditd, strace, ltrace, perf, gdb
+
+**Windows Analysis**
+PowerShell, Sysmon, Sysinternals, Event Viewer, Task Scheduler, Registry Editor, Windows Defender, Windows Firewall
+
+**Automation & Engineering**
+Python, Bash, PowerShell, Docker, Git, GitHub Actions, REST APIs, JSON, YAML
+
+**Programming**
+C, Python, JavaScript, TypeScript, Bash, PowerShell, SQL
+
+**Other Tools**
+VS Code, Vim, GitHub, Postman, Docker Compose, VirtualBox, VMware
+
+### Contact
+
+* [GitHub](https://github.com/KRTNP)
+* [LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/)
+* [Email](mailto:nattaphon.honghin@gmail.com)
