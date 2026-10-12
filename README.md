@@ -1,51 +1,35 @@
 # Nattaphon Honghin
 
-Security Engineer working across endpoint security, threat detection, incident response, system analysis, and security automation.
+Security engineer working on endpoint security, threat detection, incident response, and security automation, mostly on Linux and Windows. Day to day that means digging through endpoint, network, and system activity to work out what suspicious behavior actually is, then turning what I find into better detections and response playbooks.
 
-I work mainly with Linux and Windows environments, investigating endpoint, network, and system activity to understand suspicious behavior and improve detection and response.
-
-My background is in software engineering and Linux system internals, with a strong interest in DFIR, malware analysis, detection engineering, and low-level system analysis.
+I came to security from software engineering and Linux internals, which is why I lean toward DFIR, malware analysis, detection engineering, and low-level system analysis.
 
 ### Stack
 
-**Operating Systems**
-Kali Linux, Ubuntu, Debian, Rocky Linux, CentOS, Windows 10/11, Windows Server
+**Platforms (EDR, SIEM, firewall)**
+CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor Endpoint Secure, Sangfor Cyber Command, Elastic Security (Elasticsearch, Kibana, Logstash), FortiGate, Palo Alto Networks
 
-**Endpoint & Security Platforms**
-CrowdStrike Falcon, SentinelOne, Sangfor Endpoint Secure, Sangfor Cyber Command, Microsoft Defender, Elastic Stack, FortiGate, Palo Alto Networks
+**Logging & telemetry**
+Sysmon, Windows Event Logs, auditd, journald, rsyslog
 
-**SIEM, Logging & Monitoring**
-Elastic Security, Elasticsearch, Kibana, Logstash, Sysmon, Windows Event Logs, journald, auditd, rsyslog
+**DFIR**
+Volatility, Autopsy, Sleuth Kit, Sysinternals (Process Explorer, Process Monitor, Autoruns, TCPView), YARA, binwalk, strings
 
-**Network Analysis**
-Wireshark, tcpdump, tshark, Nmap, netcat, ss, netstat, dig, nslookup, traceroute, curl, OpenSSL
+**Malware & binary analysis**
+Ghidra, x64dbg, GDB, objdump, readelf, strace, ltrace, PEStudio, Detect It Easy, FLOSS
 
-**DFIR & Incident Response**
-Volatility, Autopsy, Sleuth Kit, Sysinternals Suite, Process Explorer, Process Monitor, Autoruns, TCPView, strings, file, binwalk, YARA
+**Network**
+Wireshark, tcpdump, tshark, Nmap, netcat, dig, OpenSSL
 
-**Malware & Binary Analysis**
-Ghidra, x64dbg, GDB, objdump, readelf, ltrace, strace, PEStudio, Detect It Easy, FLOSS
+**Web testing**
+Burp Suite, OWASP ZAP, sqlmap, ffuf, gobuster, Nikto
 
-**Web & Security Testing**
-Burp Suite, OWASP ZAP, Nmap, Nikto, sqlmap, gobuster, ffuf, dirsearch
+**Languages & automation**
+C, Python, Bash, PowerShell, JavaScript/TypeScript, SQL, Docker, Git, GitHub Actions, REST APIs
 
-**Linux & System Analysis**
-ps, top, htop, lsof, systemctl, journalctl, dmesg, procfs, auditd, strace, ltrace, perf, gdb
-
-**Windows Analysis**
-PowerShell, Sysmon, Sysinternals, Event Viewer, Task Scheduler, Registry Editor, Windows Defender, Windows Firewall
-
-**Automation & Engineering**
-Python, Bash, PowerShell, Docker, Git, GitHub Actions, REST APIs, JSON, YAML
-
-**Programming**
-C, Python, JavaScript, TypeScript, Bash, PowerShell, SQL
-
-**Other Tools**
-VS Code, Vim, GitHub, Postman, Docker Compose, VirtualBox, VMware
+**OS**
+Linux (Ubuntu, Debian, Kali, Rocky), Windows 10/11, Windows Server
 
 ### Contact
 
-* [GitHub](https://github.com/KRTNP)
-* [LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/)
-* [Email](mailto:nattaphon.honghin@gmail.com)
+[GitHub](https://github.com/KRTNP) · [LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/) · [Email](mailto:nattaphon.honghin@gmail.com)
