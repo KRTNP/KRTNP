@@ -1,31 +1,25 @@
 # Nattaphon Honghin
 
-Security engineer working on endpoint security, threat detection, incident response, and security automation, mostly on Linux and Windows. Day to day that means digging through endpoint, network, and system activity to work out what suspicious behavior actually is, then turning what I find into better detections and response playbooks.
+Security engineer working on detection engineering, security automation, endpoint security, and incident response, mostly on Linux and Windows. Day to day that means digging through endpoint, network, and system activity to work out what suspicious behavior actually is, then turning what I find into better detections and response playbooks.
 
-I came to security from software engineering and Linux internals, which is why I lean toward DFIR, malware analysis, detection engineering, and low-level system analysis.
+I came to security from software engineering and Linux internals, so I write a lot of my own tooling. I also work on the offensive side: I run attacks in a lab to see what each technique leaves behind in the logs, then use that telemetry to build and test detections.
 
 ### Stack
 
 **Platforms (EDR, SIEM, firewall)**
-CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor Endpoint Secure, Sangfor Cyber Command, Elastic Security (Elasticsearch, Kibana, Logstash), FortiGate, Palo Alto Networks
+CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor Endpoint Secure, Sangfor Cyber Command, Elastic Security, FortiGate, Palo Alto Networks
 
 **Logging & telemetry**
 Sysmon, Windows Event Logs, auditd, journald, rsyslog
 
-**DFIR**
-Volatility, Autopsy, Sleuth Kit, Sysinternals (Process Explorer, Process Monitor, Autoruns, TCPView), YARA, binwalk, strings
+**DFIR & malware analysis**
+Volatility, Autopsy, Sysinternals, YARA, Ghidra, x64dbg, GDB, PEStudio, FLOSS
 
-**Malware & binary analysis**
-Ghidra, x64dbg, GDB, objdump, readelf, strace, ltrace, PEStudio, Detect It Easy, FLOSS
-
-**Network**
-Wireshark, tcpdump, tshark, Nmap, netcat, dig, OpenSSL
-
-**Web testing**
-Burp Suite, OWASP ZAP, sqlmap, ffuf, gobuster, Nikto
+**Offensive & network**
+Burp Suite, OWASP ZAP, sqlmap, ffuf, Nmap, Wireshark, tcpdump
 
 **Languages & automation**
-C, Python, Bash, PowerShell, JavaScript/TypeScript, SQL, Docker, Git, GitHub Actions, REST APIs
+Python, C, PowerShell, Bash, SQL, JavaScript/TypeScript, Docker, Git, GitHub Actions, REST APIs
 
 **OS**
 Linux (Ubuntu, Debian, Kali, Rocky), Windows 10/11, Windows Server
