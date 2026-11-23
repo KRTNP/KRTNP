@@ -9,23 +9,29 @@ Most of my work is confidential and is not published here.
 ### Stack
 
 **Platforms (EDR, SIEM, firewall)**
-CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor Endpoint Secure, Sangfor Cyber Command, Elastic Security, FortiGate, Palo Alto Networks
+CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor Endpoint Secure, Sangfor Cyber Command, Elastic Security (Elasticsearch, Kibana, Logstash), FortiGate, Palo Alto Networks
 
 **Logging & telemetry**
 Sysmon, Windows Event Logs, auditd, journald, rsyslog
 
-**DFIR & malware analysis**
-Volatility, Autopsy, Sysinternals, YARA, Ghidra, x64dbg, GDB, PEStudio, FLOSS
+**DFIR**
+Volatility, Autopsy, Sleuth Kit, Sysinternals (Process Explorer, Process Monitor, Autoruns, TCPView), YARA, binwalk
 
-**Offensive & network**
-Burp Suite, OWASP ZAP, sqlmap, ffuf, Nmap, Wireshark, tcpdump
+**Malware & binary analysis**
+Ghidra, x64dbg, GDB, objdump, readelf, strace, ltrace, PEStudio, Detect It Easy, FLOSS
+
+**Network**
+Wireshark, tcpdump, tshark, Nmap, OpenSSL
+
+**Web testing**
+Burp Suite, OWASP ZAP, sqlmap, ffuf, gobuster, Nikto
 
 **Languages & automation**
-Python, C, PowerShell, Bash, SQL, JavaScript/TypeScript, Docker, Git, GitHub Actions, REST APIs
+Python, C, Go, Rust, PowerShell, Bash, SQL, JavaScript/TypeScript, Docker, Git, GitHub Actions, REST APIs
 
 **OS**
 Linux (Ubuntu, Debian, Kali, Rocky), Windows 10/11, Windows Server
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/) · [Email](mailto:nattaphon.honghin@gmail.com)
+[GitHub](https://github.com/KRTNP) · [LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/) · [Email](mailto:nattaphon.honghin@gmail.com)
