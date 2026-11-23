@@ -1,8 +1,10 @@
 # Nattaphon Honghin
 
-Security engineer working on detection engineering, security automation, endpoint security, and incident response, mostly on Linux and Windows. Day to day that means digging through endpoint, network, and system activity to work out what suspicious behavior actually is, then turning what I find into better detections and response playbooks.
+Security engineer working on endpoint security, detection engineering, incident response, and security automation, mostly on Linux and Windows. My work involves investigating endpoint, network, and system activity to determine what suspicious behavior actually is, then turning those findings into detections and response playbooks.
 
-I came to security from software engineering and Linux internals, so I write a lot of my own tooling. I also work on the offensive side: I run attacks in a lab to see what each technique leaves behind in the logs, then use that telemetry to build and test detections.
+I have a background in software engineering and Linux internals, so I lean toward low-level system analysis, DFIR, and malware analysis. I also do offensive testing in lab environments to understand how attack techniques appear in telemetry, and use that to build and validate detections.
+
+Most of my work is confidential and is not published here.
 
 ### Stack
 
