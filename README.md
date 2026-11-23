@@ -28,4 +28,4 @@ Linux (Ubuntu, Debian, Kali, Rocky), Windows 10/11, Windows Server
 
 ### Contact
 
-[GitHub](https://github.com/KRTNP) · [LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/) · [Email](mailto:nattaphon.honghin@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nattaphon-honghin-272407289/) · [Email](mailto:nattaphon.honghin@gmail.com)
