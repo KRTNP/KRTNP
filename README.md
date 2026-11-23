@@ -4,33 +4,22 @@ Security engineer working on endpoint security, detection engineering, incident 
 
 I have a background in software engineering and Linux internals, so I lean toward low-level system analysis, DFIR, and malware analysis. I also do offensive testing in lab environments to understand how attack techniques appear in telemetry, and use that to build and validate detections.
 
-Most of my work is confidential and is not published here.
-
 ### Stack
 
 **Platforms (EDR, SIEM, firewall)**
-CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor Endpoint Secure, Sangfor Cyber Command, Elastic Security (Elasticsearch, Kibana, Logstash), FortiGate, Palo Alto Networks
+CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor, Elastic Security, FortiGate, Palo Alto Networks
 
 **Logging & telemetry**
-Sysmon, Windows Event Logs, auditd, journald, rsyslog
+Sysmon, Windows Event Logs, auditd
 
-**DFIR**
-Volatility, Autopsy, Sleuth Kit, Sysinternals (Process Explorer, Process Monitor, Autoruns, TCPView), YARA, binwalk
+**DFIR & malware analysis**
+Volatility, Sysinternals, YARA, Ghidra, x64dbg
 
-**Malware & binary analysis**
-Ghidra, x64dbg, GDB, objdump, readelf, strace, ltrace, PEStudio, Detect It Easy, FLOSS
-
-**Network**
-Wireshark, tcpdump, tshark, Nmap, OpenSSL
-
-**Web testing**
-Burp Suite, OWASP ZAP, sqlmap, ffuf, gobuster, Nikto
+**Offensive & network**
+Burp Suite, Nmap, Wireshark, tcpdump
 
 **Languages & automation**
-Python, C, Go, Rust, PowerShell, Bash, SQL, JavaScript/TypeScript, Docker, Git, GitHub Actions, REST APIs
-
-**OS**
-Linux (Ubuntu, Debian, Kali, Rocky), Windows 10/11, Windows Server
+Python, Go, Rust, C, PowerShell, Bash, Docker, GitHub Actions
 
 ### Contact
 
