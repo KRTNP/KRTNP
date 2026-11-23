@@ -1,13 +1,13 @@
 # Nattaphon Honghin
 
-Security engineer working on endpoint security, detection engineering, incident response, and security automation, mostly on Linux and Windows. My work involves investigating endpoint, network, and system activity to determine what suspicious behavior actually is, then turning those findings into detections and response playbooks.
+Security engineer focused on endpoint security, detection engineering, and incident response across Linux and Windows. I have worked on both red and blue teams, and I use offensive experience to build and validate detections.
 
-I have a background in software engineering and Linux internals, so I lean toward low-level system analysis, DFIR, and malware analysis. I also do offensive testing in lab environments to understand how attack techniques appear in telemetry, and use that to build and validate detections.
+My background is in software engineering and Linux internals, and most of my depth is in DFIR, malware analysis, and low-level system analysis.
 
 ### Stack
 
-**Platforms (EDR, SIEM, firewall)**
-CrowdStrike Falcon, SentinelOne, Microsoft Defender, Sangfor, Elastic Security, FortiGate, Palo Alto Networks
+**EDR & SIEM**
+CrowdStrike Falcon, SentinelOne, Microsoft Defender, Elastic Security
 
 **Logging & telemetry**
 Sysmon, Windows Event Logs, auditd
@@ -16,10 +16,10 @@ Sysmon, Windows Event Logs, auditd
 Volatility, Sysinternals, YARA, Ghidra, x64dbg
 
 **Offensive & network**
-Burp Suite, Nmap, Wireshark, tcpdump
+Burp Suite, Nmap, Wireshark
 
 **Languages & automation**
-Python, Go, Rust, C, PowerShell, Bash, Docker, GitHub Actions
+Python, Go, Rust, C, PowerShell
 
 ### Contact
 
